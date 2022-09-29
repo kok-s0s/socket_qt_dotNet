@@ -77,10 +77,9 @@ public class SocketClient
                     Console.WriteLine("Test Stop!");
                     Console.ReadLine();
                 }
-                   
 
                 /*
-                 * TODO：水听器工作过程
+                 * TODO：C# 客户端做某些工作
                  */
             }
 
