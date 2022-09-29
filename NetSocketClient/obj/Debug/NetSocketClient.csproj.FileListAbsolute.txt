@@ -1,0 +1,7 @@
+C:\Users\Administrator\source\repos\NetSocketClient\bin\Debug\NetSocketClient.exe.config
+C:\Users\Administrator\source\repos\NetSocketClient\bin\Debug\NetSocketClient.exe
+C:\Users\Administrator\source\repos\NetSocketClient\bin\Debug\NetSocketClient.pdb
+C:\Users\Administrator\source\repos\NetSocketClient\obj\Debug\NetSocketClient.csproj.AssemblyReference.cache
+C:\Users\Administrator\source\repos\NetSocketClient\obj\Debug\NetSocketClient.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\NetSocketClient\obj\Debug\NetSocketClient.exe
+C:\Users\Administrator\source\repos\NetSocketClient\obj\Debug\NetSocketClient.pdb
