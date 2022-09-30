@@ -5,3 +5,10 @@ C:\Users\Administrator\source\repos\NetSocketClient\obj\Debug\NetSocketClient.cs
 C:\Users\Administrator\source\repos\NetSocketClient\obj\Debug\NetSocketClient.csproj.CoreCompileInputs.cache
 C:\Users\Administrator\source\repos\NetSocketClient\obj\Debug\NetSocketClient.exe
 C:\Users\Administrator\source\repos\NetSocketClient\obj\Debug\NetSocketClient.pdb
+D:\learn\socket_qt_dotNet\NetSocketClient\bin\Debug\NetSocketClient.exe.config
+D:\learn\socket_qt_dotNet\NetSocketClient\bin\Debug\NetSocketClient.exe
+D:\learn\socket_qt_dotNet\NetSocketClient\bin\Debug\NetSocketClient.pdb
+D:\learn\socket_qt_dotNet\NetSocketClient\obj\Debug\NetSocketClient.csproj.AssemblyReference.cache
+D:\learn\socket_qt_dotNet\NetSocketClient\obj\Debug\NetSocketClient.csproj.CoreCompileInputs.cache
+D:\learn\socket_qt_dotNet\NetSocketClient\obj\Debug\NetSocketClient.exe
+D:\learn\socket_qt_dotNet\NetSocketClient\obj\Debug\NetSocketClient.pdb

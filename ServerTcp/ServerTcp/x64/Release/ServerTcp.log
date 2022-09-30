@@ -1,2 +1,11 @@
-﻿  ServerTcp.cpp
-  ServerTcp.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ServerTcp\x64\Release\ServerTcp.exe
+﻿  Moc'ing ServerTcp.h...
+  Uic'ing ServerTcp.ui...
+  Rcc'ing ServerTcp.qrc...
+RCC : warning : No resources in 'D:\learn\socket_qt_dotNet\ServerTcp\ServerTcp\ServerTcp.qrc'.
+  
+  qrc_ServerTcp.cpp
+  moc_ServerTcp.cpp
+  main.cpp
+  ServerTcp.cpp
+  Generating Code...
+  ServerTcp.vcxproj -> D:\learn\socket_qt_dotNet\ServerTcp\x64\Release\ServerTcp.exe

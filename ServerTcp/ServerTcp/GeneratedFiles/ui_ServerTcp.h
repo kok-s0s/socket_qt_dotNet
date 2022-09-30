@@ -268,7 +268,7 @@ public:
         textEdit_Recv->setMinimumSize(QSize(150, 25));
         textEdit_Recv->setMaximumSize(QSize(40, 25));
         textEdit_Recv->setAlignment(Qt::AlignCenter);
-        textEdit_Recv->setReadOnly(true);
+        textEdit_Recv->setReadOnly(false);
 
         GET->addWidget(textEdit_Recv);
 

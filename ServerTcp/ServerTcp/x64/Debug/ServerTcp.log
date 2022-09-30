@@ -1,2 +1,13 @@
-﻿  ServerTcp.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ServerTcp\x64\Debug\ServerTcp.exe
-  ServerTcp.vcxproj -> C:\Users\Administrator\Documents\Visual Studio 2015\Projects\ServerTcp\x64\Debug\ServerTcp.pdb (Full PDB)
+﻿  Moc'ing ServerTcp.h...
+  Uic'ing ServerTcp.ui...
+  Rcc'ing ServerTcp.qrc...
+RCC : warning : No resources in 'D:\learn\socket_qt_dotNet\ServerTcp\ServerTcp\ServerTcp.qrc'.
+  
+  moc_ServerTcp.cpp
+  main.cpp
+  ServerTcp.cpp
+  Generating Code...
+  qrc_ServerTcp.cpp
+  LINK : D:\learn\socket_qt_dotNet\ServerTcp\x64\Debug\\ServerTcp.exe not found or not built by the last incremental link; performing full link
+  ServerTcp.vcxproj -> D:\learn\socket_qt_dotNet\ServerTcp\x64\Debug\ServerTcp.exe
+  ServerTcp.vcxproj -> D:\learn\socket_qt_dotNet\ServerTcp\x64\Debug\ServerTcp.pdb (Full PDB)
